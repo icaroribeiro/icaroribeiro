@@ -8,7 +8,7 @@
 
 ## Technologies I work with in my current job
 
-[![My Skills](https://skillicons.dev/icons?i=py,graphql,aws,redis,git)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,graphql,aws,postgres,redis,git)](https://skillicons.dev)
 
 ## Technologies I've been studying recently as a self-taught developer
 
