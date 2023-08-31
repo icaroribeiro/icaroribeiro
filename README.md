@@ -2,25 +2,17 @@
   Hi there, I'm Ícaro Ribeiro! 👋
 </h1>
 
-👨 I'm an enthusiastic Software Engineer from Sao Paulo, Brazil.  
+👨 I'm an enthusiastic Backend Engineer from Sao Paulo, Brazil.  
 💻 I'm currently working on the development and maintenance of server-side applications.  
 📚 I'm really interested in learning technologies related to serverless and cloud-based solutions.  
 
 ## Technologies I work with in my current job
 
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" alt="GraphQL"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png" alt="AWS"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" alt="SQL"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terraform/terraform.png" alt="Terraform"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="Git"/></code>
+[![My Skills](https://skillicons.dev/icons?i=py,graphql,aws,git)](https://skillicons.dev)
 
-## Technologies I've been studying as a self-taught developer
+## Technologies I've been studying recently as a self-taught developer
 
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="TypeScript"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="NodeJS"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/go/go.png" alt="Go"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" alt="Docker"/></code>
+[![My Skills](https://skillicons.dev/icons?i=ts,js,rabbitmq)](https://skillicons.dev)
 
 <!--
 **icaroribeiro/icaroribeiro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
