@@ -12,7 +12,7 @@
 
 ## Technologies I've been studying recently as a self-taught developer
 
-[![My Skills](https://skillicons.dev/icons?i=ts,js,rabbitmq)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ts,js,go,rabbitmq)](https://skillicons.dev)
 
 <!--
 **icaroribeiro/icaroribeiro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
