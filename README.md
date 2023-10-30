@@ -2,7 +2,7 @@
   Hi there, I'm Ícaro Ribeiro! 👋
 </h1>
 
-👨 I'm an enthusiastic Backend Engineer from Sao Paulo, Brazil.  
+👨 I'm a Software Engineer from Sao Paulo, Brazil.  
 💻 I'm currently working on the development and maintenance of server-side applications.  
 📚 I'm really interested in learning technologies related to serverless and cloud-based solutions.  
 
