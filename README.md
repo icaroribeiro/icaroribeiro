@@ -12,7 +12,7 @@
 
 ## Technologies I've been studying recently as a self-taught developer
 
-[![My Skills](https://skillicons.dev/icons?i=nodejs,ts,go,gcp,rabbitmq,docker)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nestjs,nodejs,ts,go,gcp,rabbitmq,docker)](https://skillicons.dev)
 
 <!--
 **icaroribeiro/icaroribeiro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -26,5 +26,4 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
