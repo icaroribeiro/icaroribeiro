@@ -3,8 +3,8 @@
 </h1>
 
 👨 I'm a Software Engineer from Sao Paulo, Brazil.  
-💻 I'm currently working on the development and maintenance of server-side applications.  
-📚 I'm really interested in learning technologies related to serverless and cloud-based solutions.  
+💻 Recently, I have been working on the development and maintenance of server-side applications.
+📚 Currently, I have dedicated myself to studying Nest.js, Node.js and Typescript for building reliable, maintainable and scalable server-side applications.
 
 ## Technologies I work with in my current job
 
@@ -12,7 +12,7 @@
 
 ## Technologies I've been studying recently as a self-taught developer
 
-[![My Skills](https://skillicons.dev/icons?i=nestjs,nodejs,ts,go,gcp,rabbitmq,docker)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nestjs,nodejs,ts,docker)](https://skillicons.dev)
 
 <!--
 **icaroribeiro/icaroribeiro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
