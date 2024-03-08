@@ -11,7 +11,7 @@
 
 ## Technologies I've been studying recently as a self-taught developer
 
-[![My Skills](https://skillicons.dev/icons?i=nestjs,nodejs,ts,docker)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nestjs,nodejs,ts,go,docker)](https://skillicons.dev)
 
 <!--
 **icaroribeiro/icaroribeiro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
