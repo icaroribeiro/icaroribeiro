@@ -3,7 +3,7 @@
 </h1>
 
 👨 I'm a Software Engineer from Sao Paulo, Brazil.  
-📚 Currently, I've dedicated myself to studying technologies for building reliable, maintainable and scalable server-side applications using Javascript: Nest.js, Node.js and Typescript.
+📚 Currently, I've dedicated myself to studying technologies for building reliable, maintainable and scalable server-side applications using Javascript (Nest.js, Node.js and Typescript) and Go.
 
 ## Technologies I work with in my current job
 
