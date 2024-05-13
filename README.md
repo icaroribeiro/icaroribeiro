@@ -6,13 +6,9 @@
 
 📚 I've dedicated myself in a self-taught manner to studying technologies for building reliable, maintainable and scalable applications, mainly directed to server-side, pursuing to become a Full Stack Software Engineer.
 
-## Technologies I work with in my current job
+### Technologies:
 
-[![My Skills](https://skillicons.dev/icons?i=ts,py,graphql,aws,git)](https://skillicons.dev)
-
-## Technologies I already worked with and I 've been studying in a self-taught manner
-
-[![My Skills](https://skillicons.dev/icons?i=nodejs,postgres,redis,docker)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nodejs,ts,py,graphql,aws,postgres,redis,docker,terraform,githubactions,git)](https://skillicons.dev)
 
 <!--
 **icaroribeiro/icaroribeiro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
