@@ -4,7 +4,11 @@
 
 👨 I'm a Software Engineer from Sao Paulo, Brazil.
 
-📚 I've dedicated myself in a self-taught manner to studying technologies for building reliable, maintainable and scalable applications, mainly directed to server-side, pursuing to become a Full Stack Software Engineer.
+I’ve great skills and experience acquired throughout my career working with the architecture, development and maintenance of systems using different programming languages, frameworks and tools.
+
+💻 I’ve great skills and experience acquired throughout my career working with the architecture, development and maintenance of systems using different programming languages, frameworks and tools.
+
+📚 I've dedicated myself to study technologies mainly directed to server-side for building maintainable, reliable and scalable applications, pursuing to become a Full Stack Software Engineer.
 
 ### Technologies:
 
