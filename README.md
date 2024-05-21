@@ -2,9 +2,7 @@
   Hi there, I'm Ícaro Ribeiro! 👋
 </h1>
 
-👨 I'm a Software Engineer from Sao Paulo, Brazil.
-
-I’ve great skills and experience acquired throughout my career working with the architecture, development and maintenance of systems using different programming languages, frameworks and tools.
+👨 I'm a Software Engineer backed by a Bachelor's degree in Computer Science and a Professional Master's degree in Computer Engineering.
 
 💻 I’ve great skills and experience acquired throughout my career working with the architecture, development and maintenance of systems using different programming languages, frameworks and tools.
 
