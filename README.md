@@ -6,7 +6,7 @@
 
 💻 I've great skills and experience acquired throughout my career working with the architecture, development and maintenance of systems using different programming languages, frameworks and tools.
 
-📚 I've dedicated myself to study technologies mainly directed to server-side for building maintainable, reliable and scalable applications, pursuing to become a Full Stack Software Engineer.
+📚 I've dedicated myself to study technologies such as programming languages, frameworks, and tools mainly directed to server-side for building maintainable, reliable and scalable applications.
 
 ### Technologies:
 
