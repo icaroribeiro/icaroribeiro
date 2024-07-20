@@ -10,7 +10,7 @@
 
 ### Main Technologies:
 
-[![My Skills](https://skillicons.dev/icons?i=py,nodejs,ts,graphql,aws,postgres,redis,docker,terraform,githubactions,git)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nodejs,ts,py,graphql,aws,postgres,redis,docker,terraform,githubactions,git)](https://skillicons.dev)
 
 <!--
 **icaroribeiro/icaroribeiro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
