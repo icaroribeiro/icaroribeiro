@@ -4,7 +4,7 @@
 
 👨 I'm a Mid-level Software Engineer backed by a Bachelor's degree in Computer Science and a Professional Master's degree in Computer Engineering.
 
-💻 I've great skills and experience acquired throughout my career when taking ownership of my work over the complete software development lifecycle, from documentation, design, and prototyping, to test, implementation, and production deployment.
+💻 I've 4.5+ years of experience in software engineering over the complete software development lifecycle of server-side applications, from documentation, design, and prototyping, to test, implementation, and production deployment.
 
 📚 I’ve dedicated myself to studying technologies such as programming languages, frameworks and tools for building sustainable, reliable and scalable applications, mainly focused on server-side solutions.
 
