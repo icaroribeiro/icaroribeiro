@@ -4,7 +4,7 @@
 
 • I'm a Senior Software Engineer backed by a Bachelor's degree in Computer Science and a Professional Master's degree in Computer Engineering.
 
-• I've 4.8+ years of experience in software engineering over the complete software development lifecycle of applications, from documentation, design, and prototyping, to test, implementation, and production deployment.
+• I've 4.9+ years of experience in software engineering over the complete software development lifecycle of applications, from documentation, design, and prototyping, to test, implementation, and production deployment.
 
 • I've dedicated myself to studying technologies such as programming languages, frameworks and tools for building sustainable, reliable and scalable applications.
 
