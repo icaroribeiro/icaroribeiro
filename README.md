@@ -2,7 +2,7 @@
   Hi there, I'm Ícaro Ribeiro! 😀
 </h1>
 
-• I’m a Software Engineer with 5+ years of experience driving the full application lifecycle, from documentation, architectural design, and prototyping, to test, implementation, and production deployment.
+• I’m a Software Engineer with 6+ years of experience driving the full application lifecycle, from documentation, architectural design, and prototyping, to test, implementation, and production deployment.
 
 ### Main Technologies:
 
